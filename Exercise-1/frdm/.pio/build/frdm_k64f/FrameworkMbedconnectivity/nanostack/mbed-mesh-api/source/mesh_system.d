@@ -1,0 +1,27 @@
+.pio/build/frdm_k64f/FrameworkMbedconnectivity/nanostack/mbed-mesh-api/source/mesh_system.o: \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/mbed-mesh-api/source/mesh_system.c \
+ .pio/build/frdm_k64f/mbed_config.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_scheduler.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_event.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_list.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack/nanostack/net_interface.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack/nanostack/platform/arm_hal_phy.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/nsdynmemLIB.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/nsdynmem_tracker.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/randlib/include/mbed-client-randlib/randLIB.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/platform/arm_hal_timer.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/platform/eventloop_config.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/nanostack-hal-mbed-cmsis-rtos/ns_hal_init.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/mbed-mesh-api/source/include/mesh_system.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack-eventloop/nanostack-event-loop/eventOS_scheduler.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_assert.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_toolchain.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_preprocessor.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_error.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_retarget.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack/nanostack/ns_file_system.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack/nanostack/ns_time_api.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/mbed-trace/include/mbed-trace/ns_trace.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/mbed-trace/include/mbed-trace/mbed_trace.h

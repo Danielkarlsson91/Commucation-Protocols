@@ -1,0 +1,26 @@
+.pio/build/frdm_k64f/FrameworkMbeddrivers/usb/source/USBDevice.o: \
+ /home/daniel/.platformio/packages/framework-mbed/drivers/usb/source/USBDevice.cpp \
+ .pio/build/frdm_k64f/mbed_config.h \
+ /home/daniel/.platformio/packages/framework-mbed/drivers/usb/include/usb/internal/USBDevice.h \
+ /home/daniel/.platformio/packages/framework-mbed/drivers/usb/include/usb/internal/USBDevice_Types.h \
+ /home/daniel/.platformio/packages/framework-mbed/hal/usb/include/usb/USBPhy.h \
+ /home/daniel/.platformio/packages/framework-mbed/hal/usb/include/usb/USBPhyTypes.h \
+ /home/daniel/.platformio/packages/framework-mbed/hal/usb/include/usb/USBPhyEvents.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_critical.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/Callback.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/cxxsupport/mstd_cstddef \
+ /home/daniel/.platformio/packages/framework-mbed/platform/cxxsupport/mstd_new \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_assert.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_toolchain.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_preprocessor.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/cxxsupport/mstd_type_traits \
+ /home/daniel/.platformio/packages/framework-mbed/platform/cxxsupport/mstd_functional \
+ /home/daniel/.platformio/packages/framework-mbed/platform/cxxsupport/mstd_memory \
+ /home/daniel/.platformio/packages/framework-mbed/platform/cxxsupport/mstd_utility \
+ /home/daniel/.platformio/packages/framework-mbed/platform/cxxsupport/mstd_iterator \
+ /home/daniel/.platformio/packages/framework-mbed/drivers/usb/include/usb/internal/USBDescriptor.h \
+ /home/daniel/.platformio/packages/framework-mbed/hal/usb/include/usb/usb_phy_api.h \
+ /home/daniel/.platformio/packages/framework-mbed/hal/usb/include/usb/USBPhy.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_assert.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_error.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/include/platform/mbed_retarget.h

@@ -1,0 +1,23 @@
+.pio/build/frdm_k64f/FrameworkMbedconnectivity/nanostack/coap-service/source/coap_message_handler.o: \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/coap-service/source/coap_message_handler.c \
+ .pio/build/frdm_k64f/mbed_config.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/nsdynmemLIB.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/nsdynmem_tracker.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/coap-service/source/include/coap_service_api_internal.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/coap-service/source/include/coap_message_handler.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/mbed-coap/mbed-coap/sn_coap_header.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/mbed-coap/mbed-coap/sn_config.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_list.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/coap-service/source/include/coap_message_handler.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/mbed-coap/mbed-coap/sn_coap_protocol.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/mbed-coap/mbed-coap/sn_coap_header.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/mbed-coap/source/include/sn_coap_protocol_internal.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/mbed-coap/source/include/sn_coap_header_internal.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/libraries/mbed-coap/mbed-coap/sn_config.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack/nanostack/socket_api.h \
+ /home/daniel/.platformio/packages/framework-mbed/connectivity/nanostack/sal-stack-nanostack/nanostack/ns_address.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/mbed-trace/include/mbed-trace/ns_trace.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/mbed-trace/include/mbed-trace/mbed_trace.h \
+ /home/daniel/.platformio/packages/framework-mbed/platform/randlib/include/mbed-client-randlib/randLIB.h
